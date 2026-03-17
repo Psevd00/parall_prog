@@ -198,7 +198,7 @@ Max difference: 0.00e+00
 
 ## 9 График зависимости времени
 
-
+[![График зависимости времени]](https://github.com/Psevd00/parall_prog/blob/main/Lab_1/graph.png)
 
 ## 10 Анализ результатов
 
