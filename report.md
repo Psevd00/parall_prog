@@ -164,13 +164,10 @@ int main(int argc, char* argv[]) {
 
 ## 7 Графики
 
-time_vs_threads.png
 
-Зависимость времени от потоков
+[Зависимость времени от потоков](https://github.com/Psevd00/parall_prog/blob/lab2/time_vs_threads.png)
 
-speedup_vs_threads.png
-
-Ускорение
+[Ускорение](https://github.com/Psevd00/parall_prog/blob/lab2/speedup_vs_threads.png)
 
 ## 8 Анализ данных
 
