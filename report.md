@@ -185,7 +185,7 @@ mpi_time_vs_processes.png
 
 Зависимость времени от процесов
 
-speedup_vs_threads.png
+mpi_speedup_vs_processes.png
 
 Ускорение
 
