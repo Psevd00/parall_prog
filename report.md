@@ -180,14 +180,9 @@ int main(int argc, char* argv[]) {
 
 
 ## 7 Графики
+[Зависимость времени от потоков](https://github.com/Psevd00/parall_prog/blob/lab2/mpi_time_vs_processes.png)
 
-mpi_time_vs_processes.png
-
-Зависимость времени от процесов
-
-mpi_speedup_vs_processes.png
-
-Ускорение
+[Ускорение](https://github.com/Psevd00/parall_prog/blob/lab2/mpi_speedup_vs_processes.png)
 
 ## 8 Анализ результатов
 
