@@ -181,9 +181,9 @@ int main(int argc, char* argv[]) {
 
 ## 7 Графики
 
-time_vs_threads.png
+mpi_time_vs_processes.png
 
-Зависимость времени от потоков
+Зависимость времени от процесов
 
 speedup_vs_threads.png
 
