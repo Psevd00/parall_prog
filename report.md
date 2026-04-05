@@ -201,6 +201,9 @@ int main(int argc, char* argv[]) {
 
 ## 7 Графики
 
+[Сравнение времени выполнения и ускорение GPU оносительно CPU](https://github.com/Psevd00/parall_prog/blob/lab4/cuda_speedup.png)
+
+
 
 ## 8 Анализ результатов
 
