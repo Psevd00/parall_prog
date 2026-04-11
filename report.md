@@ -258,8 +258,10 @@ Operations (task volume): 16000000
 
 ## 9 Графики
 
-[Нрафик сравнения времени выполнения относительно кол-ва процессоров](https://github.com/Psevd00/parall_prog/blob/lab5/graph_time.png)
-[График ускорения](https://github.com/Psevd00/parall_prog/blob/lab5/graph_speedup.png)
+[График выполнения относительно размера матрицы](https://github.com/Psevd00/parall_prog/blob/lab5/graph_time.png)
+
+
+[График ускорения в зависимости от числа процессов](https://github.com/Psevd00/parall_prog/blob/lab5/graph_speedup.png)
 
 ## 10 Анализ результатов
 
