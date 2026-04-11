@@ -6,3 +6,5 @@
 [[для 3 лабораторной находится вот тут]](https://github.com/Psevd00/parall_prog/blob/lab3/report.md)
 
 [[для 4 лабораторной находится вот тут]](https://github.com/Psevd00/parall_prog/blob/lab4/report.md)
+
+[[для 5 лабораторной находится вот тут]](https://github.com/Psevd00/parall_prog/blob/lab5/report.md)
